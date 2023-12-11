@@ -4,7 +4,9 @@ Opa👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rael.araujo_/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rael-araújo-3b2251275/)
 
-![Rael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raelaraujo0&show_icons=true&theme=dracula)
+![Rael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raelaraujo0&show_icons=true&theme=dark)
+
+![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo0&layout=compact)
 
 ## Linguagens/Frameworks que eu uso:
 <div style="display: inline_block"><br/>

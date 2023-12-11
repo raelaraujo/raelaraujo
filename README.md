@@ -6,7 +6,7 @@ Opa👋
 
 ![Rael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raelaraujo0&show_icons=true&theme=dark)
 
-![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo0&layout=compact)
+![Estatisticas](https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo0&layout=compact&theme=dark)
 
 ## Linguagens/Frameworks que eu uso:
 <div style="display: inline_block"><br/>

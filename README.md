@@ -5,8 +5,8 @@ Opa👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rael-araújo-3b2251275/)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=raelaraujo0&show_icons=true&theme=radical" alt="Rael's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo0&layout=compact&theme=radical" alt="Estatisticas" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raelaraujo0&show_icons=true&theme=radical" alt="Rael's GitHub stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo0&layout=donut&theme=radical" alt="Estatisticas" width="280" />
 </div>
 
 

@@ -14,7 +14,7 @@ Opa👋
 <div style="display: inline_block"><br/>
   <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,django,linux,git" />
+        <img src="https://skillicons.dev/icons?i=py,django,cs,linux,git" />
       </a>
     </p>
 </div><br/>

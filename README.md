@@ -14,16 +14,8 @@ Opa👋
 <div style="display: inline_block"><br/>
   <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,django,linux,git" />
+        <img src="https://skillicons.dev/icons?i=py,django,linux,git,mysql,postgres" />
       </a>
     </p>
 </div><br/>
 
-## Database
-<div style="display: inline_block"><br>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-    </a>
-  </p>
-</div></br>

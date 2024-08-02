@@ -6,7 +6,6 @@ Opa👋
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=raelaraujo0&show_icons=true&theme=radical" alt="Rael's GitHub stats" width="480" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo0&layout=donut&theme=radical" alt="Estatisticas" width="330" />
 </div>
 
 

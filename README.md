@@ -1,4 +1,3 @@
-Opa👋
 🏫 | Graduando Sistemas de Informação pela Universidade Federal do Rio Grande do Norte
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raelaraujo0?igsh=ajlpZWo2amRlZjE4)

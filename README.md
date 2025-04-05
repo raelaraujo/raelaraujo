@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br/>
   <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,django,linux,c,git,mysql,postgres" />
+        <img src="https://skillicons.dev/icons?i=py,c,cpp,django,linux,git,mysql,postgres" />
       </a>
     </p>
 </div><br/>

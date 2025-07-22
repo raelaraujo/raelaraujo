@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/raelaraujo0?igsh=ajlpZWo2amRlZjE4">
+  <a href="https://www.instagram.com/_araujorael?igsh=ajlpZWo2amRlZjE4">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/rael-araújo-3b2251275/">

@@ -1,5 +1,5 @@
 <p align="center">
-  🏫 | I am majoring in Information Systems at the Universidade Federal do Rio Grande do Norte from Brazil, I'm focusing on learning Cyber Security
+  🏫 | I am majoring in Information Systems at the Universidade Federal do Rio Grande do Norte from Brazil, I'm focusing on learning Cyber Security, SOC, Pentest
 </p>
 
 <p align="center">

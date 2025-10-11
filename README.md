@@ -23,8 +23,8 @@
 <div style="display: inline_block"><br/>
   <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,c,cpp,django,linux,git,vim" /> <br/>
-         <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+        <img src="https://skillicons.dev/icons?i=py,c,django,linux,kali,bash,git,vim" /> <br/>
+         <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
       </a>
     </p>
 </div><br/>

@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="320" src="https://i.imgur.com/llSIatw.jpeg" />
+</div>
+
 <p align="center">
   🏫 | I am majoring in Information Systems at the Universidade Federal do Rio Grande do Norte from Brazil, I'm focusing on learning Cyber Security, SOC, Pentest
 </p>

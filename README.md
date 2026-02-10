@@ -16,21 +16,21 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raelaraujo&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api?username=raelaraujo&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=raelaraujo&theme=dark&hide_border=true&background=FFFFFF00" />
+</p>
 
-  <!--
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
-  -->
-
+<p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raelaraujo&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ## Tools:
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,django,linux,kali,bash,git,vim" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
-  </a>
-</div>
+<div style="display: inline_block"><br/>
+  <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,c,django,linux,kali,bash,git,vim" /> <br/>
+         <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
+      </a>
+    </p>
+</div><br/>

@@ -16,13 +16,10 @@
 </p>
 
 <p align="center">
-  <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api?username=raelaraujo&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-  <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelaraujo&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=raelaraujo&theme=dark&hide_border=true&background=FFFFFF00" />
-</p>
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=raelaraujo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=dark"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=raelaraujo&layout=compact&hide_border=true&bg_color=0d1117&theme=dark" />
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raelaraujo&layout=compact&langs_count=7&theme=dark" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=raelaraujo&theme=dark&hide_border=true&background=FFFFFF00" />
 </p>
 
 ## Tools:

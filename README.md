@@ -19,7 +19,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=raelaraujo&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=dark"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=raelaraujo&layout=compact&hide_border=true&bg_color=0d1117&theme=dark" />
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=raelaraujo&theme=dark&hide_border=true&background=FFFFFF00" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=raelaraujo&theme=dark&hide_border=true&background=FFFFFF00" />
 </p>
 
 ## Tools:

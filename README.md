@@ -26,7 +26,7 @@
 <div style="display: inline_block"><br/>
   <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,c,django,bash,git,vim" /> <br/>
+        <img src="https://skillicons.dev/icons?i=py,c,django,bash,git,neovim,vim" /> <br/>
         <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali" /> <br/>
         <img src="https://skillicons.dev/icons?i=mysql,postgres,docker" />
       </a>
